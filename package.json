@@ -1,0 +1,16 @@
+{
+    "name": "chia-binary-manager",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "repository": "https://github.com/felixbrucker/chia-binary-manager.git",
+    "bugs": "https://github.com/felixbrucker/chia-binary-manager/issues",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "cross-spawn": "^7.0.3",
+        "decompress": "^4.2.1",
+        "js-yaml": "^4.0.0",
+        "mkdirp": "^1.0.4",
+        "moment": "^2.29.1",
+        "semver": "^7.3.5"
+    }
+}
